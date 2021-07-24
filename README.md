@@ -1,5 +1,5 @@
 # ActiveStageItems
-Developed with Unreal Engine 4.20 
+Developed with Unreal Engine 4.26 
 by: Katax 
 
 Email: katax.emperor@gmail.com 
@@ -24,7 +24,7 @@ This application:
 > Custom property of item on stage
 
 
-> Blueprint only
+> Blueprint only, Basic level academic
 
 
 
